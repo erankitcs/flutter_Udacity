@@ -1,0 +1,4 @@
+#Thu Nov 15 00:11:51 AEDT 2018
+base.0=C\:\\Users\\Ankit\\AndroidStudioProjects\\category_route\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
